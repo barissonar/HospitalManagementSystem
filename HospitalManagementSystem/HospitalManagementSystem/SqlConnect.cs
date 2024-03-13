@@ -12,7 +12,7 @@ namespace HospitalManagementSystem
         public SqlConnection connection()   // Metodun Dönüş tipi SqlConnection 
         {
 
-            SqlConnection connect = new SqlConnection("Data Source=LAPTOP-VKUUP6M9;Initial Catalog=HospitalManagament;Persist Security Info=True;User ID=sa;Password=0510987aAadc;TrustServerCertificate=True");
+            SqlConnection connect = new SqlConnection("Data Source=LAPTOP-VKUUP6M9;Initial Catalog=HospitalManagament;Persist Security Info=True;User ID=sa;Password=123456;TrustServerCertificate=True");
             connect.Open();
             return connect;
 
