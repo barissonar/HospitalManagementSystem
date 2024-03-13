@@ -1,0 +1,124 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\barso\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m dersleri\\c#\\apps\\hospitalmanagementsystem\\hospitalmanagementsystem\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\barso\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m dersleri\\c#\\apps\\hospitalmanagementsystem\\hospitalmanagementsystem\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\frmpatientdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\barso\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m dersleri\\c#\\apps\\hospitalmanagementsystem\\hospitalmanagementsystem\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\sqlconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\barso\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m dersleri\\c#\\apps\\hospitalmanagementsystem\\hospitalmanagementsystem\\frmsecretarylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\frmsecretarylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\barso\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m dersleri\\c#\\apps\\hospitalmanagementsystem\\hospitalmanagementsystem\\frmsecretarylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\frmsecretarylogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|c:\\users\\barso\\onedrive\\masa\u00FCst\u00FC\\yaz\u0131l\u0131m dersleri\\c#\\apps\\hospitalmanagementsystem\\hospitalmanagementsystem\\frmsecretarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{567820DF-6274-401E-AF7A-9853B8BF6A67}|HospitalManagementSystem\\HospitalManagementSystem.csproj|solutionrelative:hospitalmanagementsystem\\frmsecretarydetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPatientDetail.cs",
+              "DocumentMoniker": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmPatientDetail.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\FrmPatientDetail.cs",
+              "ToolTip": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmPatientDetail.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\FrmPatientDetail.cs",
+              "ViewState": "AQIAAGsAAAAAAAAAAAAuwFMAAADUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:31:56.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPatientDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmPatientDetail.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\FrmPatientDetail.cs",
+              "ToolTip": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmPatientDetail.cs [Design]",
+              "RelativeToolTip": "HospitalManagementSystem\\FrmPatientDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T15:31:54.47Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlConnect.cs",
+              "DocumentMoniker": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\SqlConnect.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\SqlConnect.cs",
+              "ToolTip": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\SqlConnect.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\SqlConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:59:40.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmSecretaryLogin.cs",
+              "DocumentMoniker": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmSecretaryLogin.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\FrmSecretaryLogin.cs",
+              "ToolTip": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmSecretaryLogin.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\FrmSecretaryLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:59:17.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmSecretaryLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmSecretaryLogin.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\FrmSecretaryLogin.cs",
+              "ToolTip": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmSecretaryLogin.cs [Design]",
+              "RelativeToolTip": "HospitalManagementSystem\\FrmSecretaryLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:59:16.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmSecretaryDetail.cs",
+              "DocumentMoniker": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmSecretaryDetail.cs",
+              "RelativeDocumentMoniker": "HospitalManagementSystem\\FrmSecretaryDetail.cs",
+              "ToolTip": "C:\\Users\\barso\\OneDrive\\Masa\u00FCst\u00FC\\Yaz\u0131l\u0131m Dersleri\\C#\\Apps\\HospitalManagementSystem\\HospitalManagementSystem\\FrmSecretaryDetail.cs",
+              "RelativeToolTip": "HospitalManagementSystem\\FrmSecretaryDetail.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAwDsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-12T14:56:13.803Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
